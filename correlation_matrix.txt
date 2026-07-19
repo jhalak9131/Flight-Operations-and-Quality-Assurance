@@ -1,0 +1,166 @@
+CORRELATION MATRIX
+1ST FLIGHT
+
+2ND FLIGHT
+
+3RD FLIGHT
+
+
+
+
+4TH FLIGHT
+
+
+5TH FLIGHT
+  
+
+6TH FLIGHT
+
+7TH FLIGHT
+
+
+8TH FLIGHT
+
+9TH FLIGHT
+
+
+IA 1202
+1ST FLIGHT
+
+2ND FLIGHT
+3rd flight
+
+4th flight
+
+ 5th flight
+
+
+6th flight
+ 
+
+7th flight
+
+8th flight
+
+9th flight
+ 
+10th flight
+
+11th flight
+ 
+12th flight
+  
+13th flight
+
+14th flight
+
+
+15th flight
+
+
+16th flight
+
+
+
+
+3rd flight data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4th flight 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CORRELATION MATRIX:
+
+
+
+Calculation Methodology (Transparent Logic)
+Mean: Average of all values in the column (including idle phases where Nf1/Ng1 ≈ -0.4).
+Std: Standard deviation — shows how stable the engine ran.
+Count: Total valid numeric rows (Q1/Q2 and dalpha/dbeta usually have double count due to .1/.2 sampling).
+Active Phase Filter (used for insights): Only rows where Nf1 > 10 (engine running).
+Life Consumption Insight:
+High = Sustained TGT > 620°C + high Nf/Ng.
+Very High = Highest average TGT + high power duration.
+Low = Long idle periods (many rows at -0.4).
+Ng1 vs T451 Trend     it is inclining
+        
+
+5th flight data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       
+
+       
+
+        
+
+      
+
+
+            
+                 
+
+        
